@@ -1,4 +1,4 @@
-package tasks;
+package _1_first_steps_in_coding;
 
 import java.util.Scanner;
 
